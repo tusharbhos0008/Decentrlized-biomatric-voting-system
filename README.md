@@ -43,4 +43,4 @@ Currently at the **concept and design stage**, presented via PowerPoint. Impleme
 
 ## 🔗 Links
 
-- PPT Link - Decentralized Biometric Authentication Voting DIV- A.odp
+- PPT Link - https://github.com/tusharbhos0008/Decentrlized-biomatric-voting-system/blob/main/Decentralized%20Biometric%20Authentication%20Voting%20DIV-%20A.odp
